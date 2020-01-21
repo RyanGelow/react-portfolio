@@ -104,11 +104,11 @@ let resumeData = {
             "livelink": "https://ryangelow.github.io/Drink-For-Your-Mood/"
         },
         {
-            "name": "Giphy Toolbar",
+            "name": "Memory Game",
             "description": "Clean web application that allows for GIFs to be generated. Uses API calls from interactive list for pre-formatted GIFs to appear.",
-            "imgurl": "images/portfolio/giphy.gif",
-            "githublink": "https://github.com/RyanGelow/Giphy-API-Page",
-            "livelink": "https://ryangelow.github.io/Giphy-API-Page/"
+            "imgurl": "images/portfolio/friends.jpg",
+            "githublink": "https://ryangelow.github.io/Memory-Game/",
+            "livelink": "https://enigmatic-island-89427.herokuapp.com/"
         },
         {
             "name": "Warriors Trivia",
@@ -125,6 +125,22 @@ let resumeData = {
         //     "githublink": "https://github.com/RyanGelow/Battle-Game",
         //     "livelink": "https://ryangelow.github.io/Battle-Game/"
         // }
+    ],
+    "toolbar": [
+        {
+            "name": "Giphys",
+            "description": "Clean web application that allows for GIFs to be generated. Uses API calls from interactive list for pre-formatted GIFs to appear.",
+            "imgurl": "images/portfolio/giphy.gif",
+            "githublink": "https://github.com/RyanGelow/Giphy-API-Page",
+            "livelink": "https://ryangelow.github.io/Giphy-API-Page/"
+        },
+        {
+            "name": "Web Scraper",
+            "description": "Clean web application that allows for GIFs to be generated. Uses API calls from interactive list for pre-formatted GIFs to appear.",
+            "imgurl": "images/portfolio/giphy.gif",
+            "githublink": "https://github.com/RyanGelow/Giphy-API-Page",
+            "livelink": "https://ryangelow.github.io/Giphy-API-Page/"
+        }
     ],
     "testimonials": [{
             "description": "This is a sample testimonial",
